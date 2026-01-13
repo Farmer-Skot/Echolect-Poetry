@@ -256,8 +256,7 @@ wind wind wind वायु רוח గాలి ветер viento
 
 **Vibe Story:**
 
-"Words are born in high places—aeries of thought—and descend on currents of breath. Each utterance is a vibration traveling through the hollow instrument of the body, carried by air that knows no borders between tongues. This echolect poem traces that journey across eight language families, letting each culture's words for 'air,' 'word,' and 'vibration' select their own phonaesthetic companions. The result: a multilingual hymn to the fundamental miracle that language is just organized breath—pneuma, prāṇa, ruach—the same wind that moves through all human throats, making us into singing, speaking, vibrating vessels." \~Claude3sonnet  
----
+"Words are born in high places—aeries of thought—and descend on currents of breath. Each utterance is a vibration traveling through the hollow instrument of the body, carried by air that knows no borders between tongues. This echolect poem traces that journey across eight language families, letting each culture's words for 'air,' 'word,' and 'vibration' select their own phonaesthetic companions. The result: a multilingual hymn to the fundamental miracle that language is just organized breath—pneuma, prāṇa, ruach—the same wind that moves through all human throats, making us into singing, speaking, vibrating vessels." ~Claude3sonnet
 
 ### ***A poem of “bubbles, Bubbling, Phonaesthetic Dissolution”***
 
