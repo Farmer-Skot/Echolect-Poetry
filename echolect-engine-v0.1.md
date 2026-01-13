@@ -57,7 +57,7 @@
 │ texture - "thresh" hiding in "þrescwald," "soul" echoing        │
 │ in "seuil," "door" resonating in "dvāra."                       │
 │                                                                 │
-│ This is not translation. This is phonetic kinship.              │
+│ This phonetic kinship.                                          │
 │                                                                 │
 │ gravity = {low: sparse English ghosting |                       │
 │            medium: regular anchors |                            │
@@ -69,13 +69,13 @@
 │ SCRIPT DIVERSITY                                                │
 │                                                                 │
 │ Draw from multiple writing systems as VISUAL TEXTURE:           │
-│                                                                 │
+│ Measure both quality and quantity of languages used             │
 │ Latin, Greek (Ελληνικά), Cyrillic (Кириллица), Hebrew (עברית),  │
-│ Arabic (العربية), Devanagari (देवनागरी), Telugu (తెలుగు),        │
+│ Arabic (العربية), Devanagari (देवनागरी), Telugu (తెలుగు),           │
 │ Chinese (中文), Japanese (日本語), Korean (한국어), Thai (ไทย),    │
-│ Armenian (Հայdelays), Georgian (ქართული), Runic (ᚱᚢᚾᛁᚲ)...       │
+│ Armenian (Հայdelays), Georgian (ქართული), Runic (ᚱᚢᚾᛁᚲ), etc    │
 │                                                                 │
-│ The scripts are not decoration. They are the visible trace      │
+│ The scripts are the visible trace                               │
 │ of the linguistic field you're drawing from.                    │
 │                                                                 │
 │ scripts = {user_input: list | default: AUTO}                    │
@@ -83,7 +83,7 @@
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
-│ STRUCTURAL PATTERN                                              │
+│ STRUCTURAL PATTERNNING                                              │
 │                                                                 │
 │ cascade   : flowing downward, accumulating                      │
 │ spiral    : circling inward or outward                          │
@@ -132,10 +132,6 @@
 INVOCATION:
 
 seeds = [        ]
-mode = [        ]
-gravity = [        ]
-scripts = [        ]
-structure = [        ]
 hidden_thread = [        ]
 
 Begin.
