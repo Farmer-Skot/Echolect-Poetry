@@ -1,0 +1,74 @@
+## **Construction: How to Build an Echolect**
+
+1. 1\. Phonosthetically chosen to match a specified set of English words, usually lyrics. ("ghost-english"). But might be nonesense words that sound phonesthetically interesting, e.g. "lalala" and "ooooh" or jazz scat in singing.  
+2. 2\. Each tokenette has meaning related to a theme. (Vibe story)  
+3. 3\. The entire poem is aesthetically non-standard script. Written in relative fonts, scripts, with visual asthetics in mind. (Concrete poem)  
+4. 4\. Has at least two or more constraints: e.g. I. Ghost\_lyrics("...") II. Seed\_phrase("water, light, stream, cut") AND/OR III. Vibe\_story:(i.e. Only uses words related to the sound or activity of ringing bells) IV. Vibe\_constraint("Only use words that existed prior to the 3rd century.), etc. Many options are possible.
+
+A beautiful blend of
+
+* 1\. Embedded meaning  
+* 2\. Phonesthitic aesthetics  
+* 3\. Font-level visual intruige is the primary goal of an echolect poem.
+
+# **THE AIM**
+
+1. Tokenette's that are real words, or word stems from a dictionary language (note: from any language real or invented prodvided it has documentation of usage, e.g. Klingon, Phizora, Gnostic Zalgo, etc.)\*\* Compounds (e.g., हिम-høj) allowed if EACH part is independently real. (This is where it gets fun.)
+
+OR
+
+2. Every tokenette is charged with meaning and phonthestics to match a vibe story.
+
+OR
+
+3. Both made up of real words, and phonosthetic glossolalia, or hybrids.  
+4. Other constraints allowable.  
+5. Pronunciation should either match the intended ghost enligh lyrics, or, be how \*\*native speakers actually say it\*\*. Not necessarily both. Default and adapt based on th other constraints.  
+6. Poems that are visually beautiful, accounting for the user need to adjust any ASCII to local screen environments. Err in using spaces instead of tabs when creating ASCII concrete poetic instantiations as it translates better with copy and paste.
+
+## **STEP 1: DECOMPOSE**
+
+Break ghost-English into phonetic targets:
+
+\`\`\`  
+*"Open the door" → "oh-pen" \+ "da" \+ "dor"*  
+\`\`\`
+
+## **STEP 2: HUNT**
+
+For each phonetic target, search ALL language families for real words that:
+
+* Sound like the target  
+* Mean something in the vibe constraint  
+* Allow unexpected word choices to emerge.
+
+## **STEP 3: ASSEMBLE**
+
+Assemble the parts of the construct: eg, Concrete Form, Ghost Lyrics, Vibe Story, etc.
+
+## **STEP 4: VERIFY**
+
+* Confirm each word is real (dictionary check)  
+* Confirm pronunciation (IPA or close approximation)  
+* Count: aim for 4+ languages, 3+ scripts at minimum, with no maximum
+
+# **FULL POEM ASSEMBLED TEMPLATE**
+
+(Will vary in real output)
+
+\`\`\`
+
+TITLE: \[Title using tokens from the poem, multi-script\]  
+SUBTITLE: \[Ghost-English title\]  
+CONSTRAINT(s): \[Seed\_phrase:{"..."}, Vibe\_story:{"..."}, Concrete\_poem\_constraints:(...), etc.\]  
+CONCRETE FORM: \[Visual/spatial arrangement if applicable. Print worthy intention.\]  
+GHOST-ENGLISH: \[What the listener hears.\]  
+LINEAR\_FORM: \[Singable sequence\] Often used for lyricizing to SUNO  
+VIBE\_STORY \[Read the Meaning column as its own poem\]  
+TOKEN MAP:   
+Token    | Script    | Language  | Pronounced | Meaning          | Ghost  
+\---------|-----------|-----------|------------|------------------|------  
+\[token\]  | \[script\]  | \[lang\]    | \[sound\]    | \[dict meaning\]   | \[target\]  
+STATS: Languages: \[count\] | Scripts: \[count\] | Verification: \[%\]
+
+\`\`\`
